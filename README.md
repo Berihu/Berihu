@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berihu
-- 👀 I’m interested in spatial analitics and geovisual analisys
+- 👀 I’m interested in spatial analytics and geovisual analysis
 - 🌱 I’m currently learning geospatial information sharing and geospatial data ecosystems
 - 💞️ I’m looking to collaborate on spatial data science
 - 📫 How to reach me 
